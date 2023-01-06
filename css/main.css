@@ -16,7 +16,7 @@ body {
 }
 .container {
   width: 100%;
-  max-width: 1440px;
+  min-width: 1440px;
   display: flex;
   flex-direction: column;
 }
@@ -25,6 +25,7 @@ body {
   color: #ffffff;
   background-image: url("../images/png/main.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .hr {
   border: 1px solid #ffffff;
