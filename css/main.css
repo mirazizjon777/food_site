@@ -586,7 +586,7 @@ img {
   overflow: hidden;
 }
 .c-eight__main-imgs img {
-  width: 100%;
+  max-width: 100%;
 }
 
 /* BOX-FOOTER-NT */
