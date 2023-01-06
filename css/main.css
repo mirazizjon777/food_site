@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   font-family: "Heebo", "Arial", sans-serif;
-  background-color: cadetblue;
+  background-color: #212121;
 }
 .container {
   width: 100%;
